@@ -29,10 +29,7 @@ Um projeto FullStack, lista telefônica online com cadastro de usuário e contat
 * connect-flash
 
 ### Permanência de sessão
-* cookie-parser
-* cookie-session
 * express-session
-* session-file-store
 
 ### Servidor
 * express
@@ -58,10 +55,10 @@ Um projeto FullStack, lista telefônica online com cadastro de usuário e contat
 
 
 ## Dev dependences
-@babel/cli
-@babel/core
-@babel/preset-env
-babel-loader
-nodemon
-webpack
-webpack-cli
+* @babel/cli
+* @babel/core
+* @babel/preset-env
+* babel-loader
+* nodemon
+* webpack
+* webpack-cli
