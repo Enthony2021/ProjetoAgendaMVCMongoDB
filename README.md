@@ -1,4 +1,4 @@
-# Projeto_Lista_Telefonica_MVC_MOngoDB_WebPack_FullStack
+# Projeto_Lista_Telefonica_MVC_MongoDB_WebPack_FullStack
 
 Projeto Fullstack! Desenvolvido juntamente com o Prof° Otávio Miranda no curso de "JavaScript e TypeScript do básico ao avançado".
 
