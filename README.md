@@ -7,11 +7,12 @@ Um projeto FullStack, lista telefônica online com cadastro de usuário e contat
 
 ## Suas funcionalidades são: 
 * Cadastro de Usuário (CRUD);
-* gravaççao de contatos (CRUD);
+* gravação de contatos (CRUD);
 * Criação de sessão ao logar.
 * Utilização de Hash de senha antes de salvar no banco de dados.
 * Utilização de Flash Messages.
 * Validação de formulários.
+* Segurança contra invasores com CSRF Token.
 
 ## Tecnologias: 
 * BackEnd: *Node.js*
