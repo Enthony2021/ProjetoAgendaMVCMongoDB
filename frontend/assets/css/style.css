@@ -1,0 +1,12 @@
+.bg-dark a {
+    color: #fff;
+}
+
+.bg-dark a:hover {
+    color: #8f8f8f;
+}
+
+.container-fluid {
+    display: flex;
+    justify-content: space-between;
+}
